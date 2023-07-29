@@ -1,1 +1,1 @@
-Habit traccker
+Habit tracker
